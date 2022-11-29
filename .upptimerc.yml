@@ -12,8 +12,8 @@ status-website:
   baseUrl: /undp-carbon-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Carbon Registry
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Carbon Registry Mangement Website
+  introTitle: "Carbon Registry Mangement Website"
+  introMessage: "Carbon Registry Mangement Website"
   navbar:
     - title: Status
       href: /
