@@ -1,20 +1,20 @@
 [
   {
-    "name": "Carbon Registry Website",
-    "url": "http://carbon-www-dev.s3-website-us-east-1.amazonaws.com",
+    "name": "Carbon Registry",
+    "url": "http://carbon-www-dev.s3-website-us-east-1.amazonaws.com/",
     "icon": "https://icons.duckduckgo.com/ip3/carbon-www-dev.s3-website-us-east-1.amazonaws.com.ico",
-    "slug": "carbon-registry-website",
+    "slug": "carbon-registry",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 260,
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   }
 ]
