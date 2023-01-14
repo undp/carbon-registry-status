@@ -9,10 +9,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # baseUrl: /ping
+  baseUrl: /undp-carbon-status
   logoUrl: https://github.com/xeptagondev/undp-carbon-status/raw/master/assets/logo.svg
   name: Carbon Registry
-  introTitle: "**Carbon Registry** is the open-source carban registry digital good"
+  introTitle: "**Carbon Registry** is the open-source Carbon registry digital good"
   introMessage: "Carbon Registry Status"
   navbar:
     - title: Status
