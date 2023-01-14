@@ -9,8 +9,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /undp-carbon-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: /ping
+  logoUrl: http://carbon-www-dev.s3-website-us-east-1.amazonaws.com/static/media/logo-slider.42024070ee9e666a1e9a.png
   name: Carbon Registry
   introTitle: "Carbon Registry Mangement Website"
   introMessage: "Carbon Registry Mangement Website"
