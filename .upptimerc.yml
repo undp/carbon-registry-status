@@ -12,7 +12,6 @@ status-website:
   baseUrl: /ping
   logoUrl: http://carbon-www-dev.s3-website-us-east-1.amazonaws.com/static/media/logo-slider.42024070ee9e666a1e9a.png
   name: Carbon Registry
-  cname: carbon-www-dev.s3-website-us-east-1.amazonaws.com
   introTitle: "Carbon Registry Mangement Website"
   introMessage: "Carbon Registry Mangement Website"
   navbar:
