@@ -5,16 +5,17 @@ repo: undp-carbon-status # The name of this repository
 sites:
   - name: Carbon Registry
     url: http://carbon-www-dev.s3-website-us-east-1.amazonaws.com/
-    icon: https://github.com/xeptagondev/undp-carbon-status/raw/master/assets/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  favicon: https://github.com/xeptagondev/undp-carbon-status/raw/master/assets/favicon.png
   baseUrl: /undp-carbon-status
   logoUrl: https://github.com/xeptagondev/undp-carbon-status/raw/master/assets/logo.svg
-  name: 
+  name: Carbon Registry
   introTitle: "**Carbon Registry Status**"
   introMessage: "Carbon credit initiative for ExO and HQ/GEF from Vanuatu Carbon Registry"
+  css: ".logo div{ display: none; }"
   navbar:
     - title: Status
       href: /
