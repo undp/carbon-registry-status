@@ -4,6 +4,7 @@ repo: undp-carbon-status # The name of this repository
 
 sites:
   - name: Carbon Registry
+    url: /
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
