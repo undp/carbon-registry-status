@@ -1,22 +1,22 @@
 [
   {
     "name": "Carbon Registry",
-    "url": "/",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "http://carbon-www-dev.s3-website-us-east-1.amazonaws.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/carbon-www-dev.s3-website-us-east-1.amazonaws.com.ico",
     "slug": "carbon-registry",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 181,
-    "timeDay": 181,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-01-15": 0
+      "2023-01-15": 12
     }
   }
 ]
