@@ -18,7 +18,7 @@ status-website:
   css: ".logo div{ display: none; }"
   navbar:
     - title: Status
-      href: /
+      href: /undp-carbon-status
     - title: Carbon Registry
       href: http://carbon-www-dev.s3-website-us-east-1.amazonaws.com/
       # href: https://github.com/$OWNER/$REPO
