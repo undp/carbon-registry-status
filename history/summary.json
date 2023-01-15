@@ -2,7 +2,7 @@
   {
     "name": "Carbon Registry",
     "url": "http://carbon-www-dev.s3-website-us-east-1.amazonaws.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/carbon-www-dev.s3-website-us-east-1.amazonaws.com.ico",
+    "icon": "https://github.com/xeptagondev/undp-carbon-status/raw/master/assets/favicon.png",
     "slug": "carbon-registry",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 205,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   }
 ]
