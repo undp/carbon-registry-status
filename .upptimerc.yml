@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://github.com/xeptagondev/undp-carbon-status/raw/master/assets/logo.svg
   name: Carbon Registry
   introTitle: "**Carbon Registry Status**"
-  introMessage: "Carbon credit initiative for ExO and HQ/GEF from Vanuatu Carbon Registry"
+  introMessage: "Carbon credit initiative for ExO and HQ/GEF"
   css: ".logo div{ display: none; }"
   navbar:
     - title: Status
