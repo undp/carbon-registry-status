@@ -4,14 +4,14 @@ repo: undp-carbon-status # The name of this repository
 
 sites:
   - name: Carbon Registry
-    url: http://carbon-www-dev.s3-website-us-east-1.amazonaws.com/
+    url: https://www.test.carbreg.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  favicon: https://github.com/xeptagondev/undp-carbon-status/raw/master/assets/favicon.png
+  favicon: https://github.com/undp/carbon-registry-status/raw/master/assets/favicon.png
   baseUrl: /undp-carbon-status
-  logoUrl: https://github.com/xeptagondev/undp-carbon-status/raw/master/assets/logo.svg
+  logoUrl: https://github.com/undp/carbon-registry-status/raw/master/assets/logo.svg
   name: Carbon Registry
   introTitle: "**Carbon Registry Status**"
   introMessage: "Carbon credit initiative for ExO and HQ/GEF"
@@ -20,7 +20,7 @@ status-website:
     - title: Status
       href: /undp-carbon-status
     - title: Carbon Registry
-      href: http://carbon-www-dev.s3-website-us-east-1.amazonaws.com/
+      href: https://www.test.carbreg.org/
       # href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
