@@ -4,7 +4,7 @@ repo: carbon-registry-status # The name of this repository
 
 sites:
   - name: Carbon Registry
-    url: https://www.test.carbreg.org/
+    url: https://api.carbreg.org/national/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,4 +30,4 @@ status-website:
 
 workflowSchedule:
   graphs: "0 0 * * *"
-  uptime: "0 */6 * * *"
+  uptime: "0 */1 * * *"
