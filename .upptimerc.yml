@@ -10,8 +10,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   favicon: https://github.com/undp/carbon-registry-status/raw/master/assets/favicon.png
-  baseUrl: /carbon-registry-status
-#   cname: status.carbreg.org
+#   baseUrl: /carbon-registry-status
+  cname: status.carbreg.org
   logoUrl: https://github.com/undp/carbon-registry-status/raw/master/assets/logo.svg
   name: Carbon Registry
   introTitle: "**Carbon Registry Status**"
