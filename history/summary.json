@@ -1,8 +1,8 @@
 [
   {
     "name": "Carbon Registry",
-    "url": "https://www.test.carbreg.org/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.test.carbreg.org.ico",
+    "url": "https://api.carbreg.org/national/ping",
+    "icon": "https://icons.duckduckgo.com/ip3/api.carbreg.org.ico",
     "slug": "carbon-registry",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 410,
-    "timeWeek": 199,
-    "timeMonth": 250,
-    "timeYear": 236,
+    "time": 351,
+    "timeDay": 5789,
+    "timeWeek": 1016,
+    "timeMonth": 426,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   }
 ]
