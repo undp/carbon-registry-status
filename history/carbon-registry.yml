@@ -1,7 +1,7 @@
 url: https://api.carbreg.org/national/ping
-status: down
-code: 504
-responseTime: 29339
-lastUpdated: 2023-06-20T12:05:09.544Z
+status: up
+code: 200
+responseTime: 5539
+lastUpdated: 2023-06-20T18:03:05.028Z
 startTime: Sat Jan 14 2023 18:15:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
