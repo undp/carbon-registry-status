@@ -4,17 +4,19 @@
     "url": "https://api.carbreg.org/national/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.carbreg.org.ico",
     "slug": "carbon-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3923,
-    "timeDay": 5543,
-    "timeWeek": 5540,
-    "timeMonth": 5430,
-    "timeYear": 3923,
-    "dailyMinutesDown": {}
+    "time": 4094,
+    "timeDay": 17441,
+    "timeWeek": 8515,
+    "timeMonth": 6177,
+    "timeYear": 4094,
+    "dailyMinutesDown": {
+      "2023-06-20": 0
+    }
   }
 ]
