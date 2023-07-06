@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.carbreg.org.ico",
     "slug": "carbon-registry",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
-    "uptimeYear": "99.85%",
-    "time": 4176,
-    "timeDay": 5735,
-    "timeWeek": 5962,
-    "timeMonth": 6540,
-    "timeYear": 4176,
+    "uptimeYear": "99.86%",
+    "time": 4181,
+    "timeDay": 5037,
+    "timeWeek": 5808,
+    "timeMonth": 6509,
+    "timeYear": 4181,
     "dailyMinutesDown": {
       "2023-06-20": 358
     }
