@@ -4,7 +4,7 @@
     "url": "https://api.carbreg.org/national/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.carbreg.org.ico",
     "slug": "carbon-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 6008,
     "timeYear": 4930,
     "dailyMinutesDown": {
+      "2023-11-14": 0,
       "2023-06-20": 358
     }
   }
